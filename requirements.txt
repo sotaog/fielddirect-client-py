@@ -1,0 +1,2 @@
+requests
+git+https://github.com/sotaog/python-pyodata.git@experimental_v3
